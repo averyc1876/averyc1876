@@ -1,7 +1,5 @@
 -  I’m @averyc1876
 -  I’m interested in game development and 3D graphics
--  and currently learning java for minecraft modding.
--  I’m looking to collaborate on minecraft mod development, source engine projects, etc
 -  Email: averyc1876@gmail.com
 -  Discord: averyc1876#4392
 
