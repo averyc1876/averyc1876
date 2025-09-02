@@ -1,6 +1,6 @@
 -  I’m @averyc1876
 -  I’m interested in game development and 3D graphics
--  Email: averyc1876@gmail.com
+-  Email: averyc1876@proton.me
 -  Discord: averyc1876
 
 <!---
